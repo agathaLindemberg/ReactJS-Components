@@ -1,0 +1,19 @@
+.cabecalho{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    color: rgb(1, 80, 217);
+    padding: 50px 80px 0 80px;
+}
+
+.cabecalho li{
+    display: inline-block;
+    margin: 0 40px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color: rgb(1, 80, 217);
+}
